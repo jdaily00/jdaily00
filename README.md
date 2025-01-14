@@ -1,8 +1,8 @@
 <div align=center> 
   <p>
   <a href="https://zero-talk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:heehee.oxo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nmdkims@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://jumpit.saramin.co.kr/resume/463766" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:heehee.oxo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heehee.oxo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://jumpit.saramin.co.kr/resume/463766" target="_blank"><img src="https://img.shields.io/badge/점핏-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
@@ -12,7 +12,7 @@
   눈물보다 콧물을 흘리는 하루를 보낼 거예요...✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdaily00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaily00&layout=compact&hide_border=true&theme=white)
   
 ## Platforms & Languages
 <p>
