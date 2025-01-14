@@ -13,7 +13,9 @@
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdaily00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaily00&layout=compact&hide_border=true&theme=white)
-  
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o0_o0_o0)](https://solved.ac/o0_o0_o0/)
+
 ## Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
